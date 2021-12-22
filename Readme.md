@@ -10,9 +10,7 @@ https://mail.google.com/mail/u/?authuser=allanmdap.95@gmail.com target="_blank">
 <div align="center " width= "100%" >
   <a href="https://github.com/Monarcah">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=allanMello5&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanMello5&layout=default&langs_count=7&theme=cobalt"/>
-
-  
+   
 <h3 align="center">Trabalho  com...<h3>
    <hr></hr>
  <div style="display: inline_block "align="center"><br>
