@@ -22,7 +22,4 @@ https://mail.google.com/mail/u/?authuser=allanmdap.95@gmail.com target="_blank">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
 </div>
  
- <div align="left">
- <ul><h4><li>👷🏻‍♂️ Estou trabalhando em um Bug Tracker</li>
-  <li>👨🏻‍💻Estou Aprendendo API's e Node Js</li></h4></ul>
- </div>
+ 
