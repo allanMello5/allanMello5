@@ -1,5 +1,6 @@
  <h2 align= center>Olá! eu sou Allan , Desenvolvedor </h2><hr></hr>
  <div align="left"><h4>Sou um desenvolvedor sempre a procura de novos conhecimentos e desafios</h4></div>
+ <h5>Sou estudante de Ciência da Computação com sólida base em programação, algoritmos e estruturas de dados. Busco um estágio para aplicar meus conhecimentos acadêmicos em projetos reais, contribuir para a melhoria de sistemas e aprender com proﬁssionais experientes.</h5>
  <div align="center">
    <a href=https://www.linkedin.com/in/allan-mello-de-aguiar-227a2021a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href=
