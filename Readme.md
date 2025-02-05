@@ -1,4 +1,4 @@
-![Header](./github-header-image)
+![Header](.github-header-image)
  <h2 align= center>Olá! eu sou Allan , Desenvolvedor </h2><hr></hr>
  <div align="left"><h3>Sou um desenvolvedor sempre a procura de desafios</h3></div>
  <h5>Um estudante de Ciência da Computação com sólida base em programação, algoritmos e estruturas de dados. Busco um estágio para aplicar meus conhecimentos acadêmicos em projetos reais, contribuir para a melhoria de sistemas e aprender com proﬁssionais experientes.</h5>
