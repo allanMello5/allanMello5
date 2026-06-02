@@ -1,6 +1,6 @@
 
  <h2 align= center>Olá! eu sou Allan </h2><hr></hr>
- <div align="left"><h3></h3></h3></div>
+ <div align="left"><h3></h3></div>
  <h5> sólida base em programação, algoritmos e estruturas de dados</h5>
  <div align="center">
    <a href=https://www.linkedin.com/in/allan-mello-de-aguiar-227a2021a/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
